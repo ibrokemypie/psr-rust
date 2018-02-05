@@ -1,0 +1,7 @@
+[package]
+name = "psr"
+version = "0.1.0"
+authors = ["ibrokemypie <conor@codenix.org>"]
+
+[dependencies]
+rand = "*"
